@@ -1,0 +1,16 @@
+{
+  "name": "four",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.3",
+    "sentiment": "^5.0.1",
+    "twit": "^2.2.11"
+  }
+}
